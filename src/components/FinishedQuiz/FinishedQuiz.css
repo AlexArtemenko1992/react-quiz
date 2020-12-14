@@ -1,0 +1,36 @@
+.finished-quiz {
+  width: 600px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 20px 40px;
+  color: #fff;
+}
+
+.finished-quiz i {
+  margin-left: 10px;
+}
+.finished-quiz ul li {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+i.fa-times {
+  color: red;
+  font-size: 14px;
+}
+
+i.fa-check {
+  color: rgb(74, 217, 74);
+  font-size: 14px;
+}
+
+.finished-result {
+  margin-top: 20px;
+}
+
+.button-group {
+  margin-top: 20px;
+}
